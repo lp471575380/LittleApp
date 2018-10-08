@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\bin\Debug\LittleApp.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\bin\Debug\LittleApp.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\LittleApp.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\LittleApp.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\LittleApp.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\LittleApp.Inner.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\LittleApp\LittleApp\obj\x86\Debug\LittleApp.Remote.resources
