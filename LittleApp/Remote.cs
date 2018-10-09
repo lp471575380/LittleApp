@@ -44,7 +44,7 @@ namespace LittleApp
              //若不为空，验证用户名和密码是否和数据库匹配
                 if (username.Equals("admin") && password.Equals("123"))
                 {
-                    MessageBox.Show("登录成功！");
+                    //MessageBox.Show("登录成功！");
                     Inner inner = new Inner();
                     inner.Show();
                     this.Hide();    
